@@ -1,0 +1,31 @@
+body {
+    background-color: red;
+    color:white;
+}
+
+header {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#centercolumn {
+    width: 40%;
+    float: left;
+    padding: 20px
+}
+#leftcolumn {
+    float: left;
+    width: 10%;
+    padding: 20px;
+}
+
+#rightcolumn {
+    float: right;
+    width: 10%;
+    padding: 20px;
+    
+}
+
+.sidecolumn {
+    background-color: white;
+}
