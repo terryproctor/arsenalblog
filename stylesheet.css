@@ -6,10 +6,17 @@ body {
 header {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 26px;
+}
+
+p {font-size: 17px;}
+
+h2 {
+    color: #ffe600;
 }
 
 #centercolumn {
-    width: 40%;
+    width: 60%;
     float: left;
     padding: 20px
 }
